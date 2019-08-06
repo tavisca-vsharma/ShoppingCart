@@ -7,7 +7,7 @@ namespace ShoppingCart
         private User _user = new User();
         static void Main(string[] args)
         {
-            
+            int a = 5;
             
         }
     }
